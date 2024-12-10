@@ -1,0 +1,5 @@
+##[pylyzer] failed /home/zlee/advent-of-code-2024/day2/day2.py 1733795039 0
+.file: File!
+.lines: List(Str, _: Nat)
+.safe_counter: {0}
+
